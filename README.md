@@ -23,8 +23,8 @@
 <br/>
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-samir03&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-samir03&show_icons=true&show_icons=true&theme=radical" alt="github-stats" /> 
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-samir03&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
 </p>
-<td>
 
