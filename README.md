@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
 <h3 align="center">A passionate Mobile Application from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-samir03&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-samir03" /> </p>
+
+
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-samir03&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-samir03" /> </p>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
