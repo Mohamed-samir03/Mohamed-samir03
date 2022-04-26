@@ -10,11 +10,13 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
 - 📫 How to reach me **smyr03130@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12oz0IbG45Vea6h5hIYEQIIy9rGKqYzKd/view?usp=sharing)
 
-- ⚡ Fun fact **football**
+- ⚡ Fun fact **I love football⚽**
 
 <img alt="Night Coding" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/1yft.gif" align="right"/>
 
