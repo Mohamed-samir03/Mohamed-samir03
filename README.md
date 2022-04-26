@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **smyr03130@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12oz0IbG45Vea6h5hIYEQIIy9rGKqYzKd/view?usp=sharing)
 
 - ⚡ Fun fact **football**
 
