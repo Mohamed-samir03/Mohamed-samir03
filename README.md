@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **smyr03130@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact **football**
 
