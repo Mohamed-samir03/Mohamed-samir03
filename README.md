@@ -8,8 +8,6 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **smyr03130@gmail.com**
