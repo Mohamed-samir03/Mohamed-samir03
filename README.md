@@ -5,7 +5,7 @@
 
 
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="[https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png]" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love football⚽**
 <div align=center>
-<img alt="Night Coding" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/1yft.gif"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/170483707-56af034d-22d0-4699-bc72-210382242146.gif"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
