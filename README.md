@@ -5,7 +5,7 @@
 
 
 <div align=center>
-        <img src="[https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png]" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
