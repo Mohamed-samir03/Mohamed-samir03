@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **smyr03130@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kzWA0wZ9at0BWZUjhAtHzTEhnYxwSjbc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I9UcS_l84i_QeLRJSvNh_RuSZlGy5o2t/view?usp=sharing)
 
 - ⚡ Fun fact **I love football⚽**
 <div align=center>
