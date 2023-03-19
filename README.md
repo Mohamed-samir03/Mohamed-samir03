@@ -16,9 +16,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I9UcS_l84i_QeLRJSvNh_RuSZlGy5o2t/view?usp=sharing)
 
 - ⚡ Fun fact **I love football⚽**
-<div align=center>
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="340" height="340" />
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-samir-5b7b1b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-samir-5b7b1b1b6/" height="30" width="40" /></a>
