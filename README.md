@@ -5,7 +5,7 @@
 
 
 <div align=center>
-        <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee"/>
+        <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="340" height="340" />
         <img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="340" height="340" />
 </div>
 
