@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **smyr03130@gmail.com**
+- 📫 How to reach me **mohammedsamersoliman@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UX2bp9Qyo3oyWrpDkcgTDwn-zcTpIeg5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uewoW02kpY8lynel1JIyFyXo0kqqsrGO/view?usp=sharing)
 
 - ⚡ Fun fact **I love football⚽**
 <h3 align="left">Connect with me:</h3>
