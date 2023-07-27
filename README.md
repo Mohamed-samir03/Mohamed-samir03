@@ -2,20 +2,21 @@
 <h3 align="center">A passionate Mobile Application from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-samir03&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-samir03" /> </p>
-
+<img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="180" height="180" />
 
 <div align=center>
-        <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="180" height="180" />
         <img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="250" height="250" />
-</div>
-
+        
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **mohammedsamersoliman@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QAsH-qZvAdoxKqqr2lo-pgNDCRqm7AzJ/view?usp=sharing)
 
-- ⚡ Fun fact **I love football⚽**
+- ⚡ Fun fact **I love football⚽**    
+        
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-samir-5b7b1b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-samir-5b7b1b1b6/" height="30" width="40" /></a>
