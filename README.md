@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-samir03&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-samir03" /> </p>
 
-<div align=left>
-<img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="100" height="100" />
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="150"                     height="150" />
+<div align=center>
+<img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="120" height="120" />
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="200"                     height="200" />
+</div>
         
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -14,7 +15,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QAsH-qZvAdoxKqqr2lo-pgNDCRqm7AzJ/view?usp=sharing)
 
 - ⚡ Fun fact **I love football⚽**      
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
