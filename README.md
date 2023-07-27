@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-samir03&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-samir03" /> </p>
 <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="180" height="180" />
 
-<div align=center>
+<div align=left>
         <img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="250" height="250" />
         
 - 👯 I’m looking to collaborate on **Open Source Projects**
