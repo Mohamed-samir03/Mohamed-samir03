@@ -5,7 +5,10 @@
 <img src="https://user-images.githubusercontent.com/81251707/170483892-72fd9eee-0d53-4d95-ac49-81e4bc6682d4.png" alt="GitHub Octocat Drinking a Cup of Coffee" width="180" height="180" />
 
 <div align=left>
-        <img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="250" height="250" />
+        <div align=left>
+                <img alt="Night Coding" src="https://user-images.githubusercontent.com/81251707/226129645-1eba2f35-8fdc-4cbe-a82e-76a09b786c8f.gif" width="250"                                height="250" />
+        </div>
+        <div align=left>
         
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -14,7 +17,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QAsH-qZvAdoxKqqr2lo-pgNDCRqm7AzJ/view?usp=sharing)
 
 - ⚡ Fun fact **I love football⚽**    
-        
+     </div>   
 </div>
 
 <h3 align="left">Connect with me:</h3>
